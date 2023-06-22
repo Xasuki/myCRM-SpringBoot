@@ -1,0 +1,8 @@
+package com.itx.crm.dao;
+
+import com.itx.crm.base.BaseMapper;
+import com.itx.crm.vo.CustomerLinkMan;
+
+public interface CustomerLinkManMapper extends BaseMapper<CustomerLinkMan,Integer> {
+
+}
